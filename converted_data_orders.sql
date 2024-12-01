@@ -1,0 +1,3 @@
+INSERT INTO mysql_orders VALUES (1, 1, 1, 1, TO_DATE('2024-10-01', 'YYYY-MM-DD'), 1, 999.99);
+INSERT INTO mysql_orders VALUES (2, 2, 2, 2, TO_DATE('2024-10-02', 'YYYY-MM-DD'), 2, 1399.98);
+INSERT INTO mysql_orders VALUES (3, 3, 3, 3, TO_DATE('2024-10-03', 'YYYY-MM-DD'), 1, 299.99);
